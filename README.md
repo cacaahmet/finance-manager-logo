@@ -1,8 +1,7 @@
 <div align="center">
 
-<img width="100" height="100" alt="logo" src="https://github.com/user-attachments/assets/29716488-dcc3-489d-a3de-918172a39160" />
+<img width="130" height="130" alt="logo" src="https://github.com/user-attachments/assets/29716488-dcc3-489d-a3de-918172a39160" />
 
-# 💼 NetHesap
 
 **Masaüstü Muhasebe ve Cari Hesap Yönetim Sistemi**
 
