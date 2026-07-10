@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/logo.png" alt="NetHesap Logo" width="160"/>
+<img width="1024" height="1024" alt="logo" src="https://github.com/user-attachments/assets/29716488-dcc3-489d-a3de-918172a39160" />
 
 # 💼 NetHesap
 
@@ -59,6 +59,22 @@ nethesap/
 
 Uygulama, her ekranın kendi sınıfında yönetildiği modüler bir yapı izler; bu sayede kod okunabilirliği, hata ayıklama ve yeni özellik eklenebilirliği artırılmıştır.
 
+## 🖥️ Kullanıcı Arayüzü (Ana Menü)
+
+Bu uygulama bir **staj projesi** kapsamında hayata geçirilmiştir. Aşağıda uygulamanın şu anki temel ana ekran (dashboard) arayüzünü görebilirsiniz. 
+
+Sade, modern ve kullanıcıyı yormayan bir tasarım diliyle oluşturulan bu temel görünüm; projenin ilerleyen aşamalarında yeni modüller, dinamik pencereler ve ek özelliklerle **geliştirilmeye devam edecektir**.
+
+<div align="center">
+  
+  <img width="1919" height="1025" alt="anasayfa" src="https://github.com/user-attachments/assets/711c956e-ca4b-4b54-9e42-4f8d6faf8ee2" />
+  
+  <br>
+  <p><i>Uygulamanın Temel Ana Ekran Görünümü</i></p>
+  
+</div>
+
+
 ## 🗄️ Veritabanı Şeması
 
 `NETHESAP` veritabanı aşağıdaki tablolardan oluşur:
@@ -100,9 +116,6 @@ Uzun vadeli hedef, NetHesap'ı küçük işletmelerin günlük muhasebe ihtiyaç
 
 Katkılarınızı memnuniyetle karşılarız! Bir *issue* açabilir veya *pull request* gönderebilirsiniz.
 
-## 📄 Lisans
-
-Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır.
 
 ---
 
